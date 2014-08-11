@@ -1,0 +1,2 @@
+# 大文字・小文字を無視する
+set completion-ignore-case on
